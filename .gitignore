@@ -1,0 +1,9 @@
+# Personal state — contains live Slack channel/canvas IDs
+skills/slack-digest/state.json
+
+# Logs
+*.log
+logs/
+
+# OS noise
+.DS_Store
